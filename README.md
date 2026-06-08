@@ -18,8 +18,5 @@
 - ⚡ Fun fact **I think I am funny**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yangjj-iso&show_icons=true&locale=en&layout=compact" alt="yangjj-iso" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yangjj-iso&show_icons=true&locale=en" alt="yangjj-iso" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yangjj-iso&" alt="yangjj-iso" /></p>
