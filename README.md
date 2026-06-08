@@ -1,43 +1,28 @@
-# Hi, I'm yangjj-iso 🙋‍♂️
+# yangjj-iso
 
-<div align="center">
+AI application builder focused on realtime audio, desktop tools, and practical
+developer workflows.
 
-![Profile Views](https://profile-counter.glitch.me/yangjj-iso/count.svg)
-![AI Builder](https://img.shields.io/badge/AI-Application%20Builder-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Windows Desktop](https://img.shields.io/badge/Windows-Desktop%20Apps-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+Currently building [EchoBridge AI](https://github.com/yangjj-iso/Echo-Bridge),
+a Windows-first simultaneous interpretation assistant for live bilingual
+captions, transcript revision, and meeting-note export.
 
-</div>
+## Focus
 
-## About Me
-
-I'm focused on building practical AI applications, realtime audio tools, and
-desktop software that solves real workflow problems.
-
-Currently working on **EchoBridge AI** 🚀, a Windows-first simultaneous
-interpretation assistant that captures computer audio, generates bilingual live
-captions, revises transcripts with better context, and exports useful meeting
-notes.
-
-- 💻 Building with TypeScript, React, Electron, Java, and Spring Boot
-- 🎧 Interested in realtime audio pipelines, speech translation, and AI products
-- 🧰 Enjoy turning rough ideas into usable developer and productivity tools
+| Area | What I care about |
+| --- | --- |
+| AI products | Turning model capability into useful end-user workflows |
+| Realtime audio | Capture, streaming, captions, translation, and low-latency UX |
+| Desktop apps | Electron, Windows integration, local services, packaging |
+| Engineering tools | Clean automation, smoke tests, CI-friendly local demos |
 
 ## Tech Stack
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/electron-47848F.svg?style=for-the-badge&logo=electron&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![WebSocket](https://img.shields.io/badge/websocket-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+| Frontend | Backend | AI / Realtime | Tooling |
+| --- | --- | --- | --- |
+| TypeScript | Java | OpenAI Realtime | Node.js |
+| React | Spring Boot | WebSocket | Vite |
+| Electron | REST APIs | Speech translation | Docker |
 
 ## Featured Project
 
@@ -45,16 +30,22 @@ notes.
 
 Windows-first desktop simultaneous interpretation assistant.
 
-- Captures user-selected computer output audio
-- Streams realtime bilingual captions
-- Revises earlier captions when context improves
-- Saves transcript history and exports Markdown/SRT notes
+- Captures selected computer output audio
+- Streams live bilingual captions
+- Revises earlier captions when better context arrives
+- Saves session history and exports Markdown/SRT notes
+- Packages a local Java API runtime with the Electron desktop app
 
-[View Repository](https://github.com/yangjj-iso/Echo-Bridge)
+Repository: [yangjj-iso/Echo-Bridge](https://github.com/yangjj-iso/Echo-Bridge)
 
-## GitHub Stats
+## What I'm Exploring
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yangjj-iso&show_icons=true&theme=radical" alt="GitHub stats for yangjj-iso" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjj-iso&layout=compact&theme=radical" alt="Top languages for yangjj-iso" />
-</div>
+- Realtime speech translation product design
+- Local-first desktop AI workflows
+- Reliable packaging and smoke testing for Windows apps
+- Practical AI tooling that can be tested without fragile demos
+
+## Links
+
+- GitHub: [github.com/yangjj-iso](https://github.com/yangjj-iso)
+- Featured repo: [EchoBridge AI](https://github.com/yangjj-iso/Echo-Bridge)
