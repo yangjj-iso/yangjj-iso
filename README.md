@@ -1,34 +1,97 @@
-# yangjj-iso
+# Hi 👋, I'm yangjj-iso
 
-西南大学软件工程学生，持续学习软件开发、AI 应用和工程实践。
+### A Software Engineering student from SWU
 
-我也在运营微信公众号 **程序员牛奶**，记录编程学习、项目实践、技术思考和成长过程。
+I am a Software Engineering student at Southwest University. I focus on full-stack
+development, AI applications, frontend interaction, and practical engineering
+projects.
 
-## About Me
+I also write on my WeChat Official Account: **程序员牛奶**.
 
-- Software Engineering student at Southwest University
-- Interested in full-stack development, AI applications, and developer tools
-- Writing and sharing through WeChat public account: **程序员牛奶**
-- Learning by building projects, reading code, and turning notes into reusable knowledge
+## Work
 
-## Tech Stack
+- 🔭 I’m currently working on **personal software engineering projects**
+- 👯 I’m looking to collaborate on **frontend, full-stack, and AI application projects**
+- 🤝 I’m looking for help with **open-source collaboration and project engineering**
+- 🌱 I’m currently learning **React, Vue, GSAP, Spring Boot, TypeScript, and AI application development**
+- 💬 Ask me about **React, Vue, and GSAP**
+- 📫 How to reach me: **3202137046@qq.com**
+- 👨‍💻 All of my projects are available at [github.com/yangjj-iso](https://github.com/yangjj-iso)
+- 📝 I regularly write articles on **微信公众号：程序员牛奶**
+- 📄 Know about my experiences: **暂未填写**
+- ⚡ Fun fact: **I think I am funny**
 
-| Direction | Tools / Topics |
+## Skills
+
+### Programming Languages
+
+| Skill | Status |
 | --- | --- |
-| Programming | Java, TypeScript, JavaScript, Python |
-| Frontend | React, Vue, Vite, HTML, CSS |
-| Backend | Spring Boot, Node.js, REST APIs |
-| AI / Tools | OpenAI API, automation, productivity tools |
-| Engineering | Git, Docker, testing, documentation |
+| Java | Main backend language |
+| JavaScript | Daily development |
+| TypeScript | Daily development |
+| Python | Learning and tooling |
+| C | Coursework and fundamentals |
+| C++ | Coursework and fundamentals |
 
-## What I Write About
+### Frontend Development
 
-- 编程学习路线和踩坑记录
-- 项目开发过程中的设计与复盘
-- AI 工具、效率工具和自动化实践
-- 软件工程学生的学习、实习和成长经验
+| Skill | Status |
+| --- | --- |
+| React | Learning and building projects |
+| Vue.js | Learning and building projects |
+| GSAP | Frontend animation |
+| HTML5 | Daily development |
+| CSS3 | Daily development |
+| Tailwind CSS | UI development |
+| Vite | Frontend tooling |
 
-## Links
+### Backend Development
 
-- GitHub: [github.com/yangjj-iso](https://github.com/yangjj-iso)
-- WeChat Official Account: **程序员牛奶**
+| Skill | Status |
+| --- | --- |
+| Spring Boot | Java backend development |
+| Node.js | Backend and tooling |
+| Express | API development |
+| REST APIs | Backend interface design |
+
+### Database
+
+| Skill | Status |
+| --- | --- |
+| MySQL | Common database |
+| Redis | Learning and caching |
+| MongoDB | Learning |
+| SQLite | Lightweight local storage |
+
+### Frameworks and Tools
+
+| Skill | Status |
+| --- | --- |
+| Electron | Desktop app development |
+| Git | Version control |
+| Docker | Environment and deployment |
+| Linux | Development environment |
+| Postman | API testing |
+
+### AI / ML
+
+| Skill | Status |
+| --- | --- |
+| OpenAI API | AI application development |
+| Pandas | Data processing basics |
+| PyTorch | Learning |
+
+## Social
+
+| Platform | Link |
+| --- | --- |
+| GitHub | [yangjj-iso](https://github.com/yangjj-iso) |
+| WeChat Official Account | **程序员牛奶** |
+| Email | **3202137046@qq.com** |
+
+## Add-ons
+
+External profile widgets are intentionally disabled for now because visitor
+counters, GitHub stats cards, trophy cards, and streak cards can fail to load on
+GitHub and make the profile look broken.
