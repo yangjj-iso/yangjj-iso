@@ -1,51 +1,34 @@
 # yangjj-iso
 
-AI application builder focused on realtime audio, desktop tools, and practical
-developer workflows.
+西南大学软件工程学生，持续学习软件开发、AI 应用和工程实践。
 
-Currently building [EchoBridge AI](https://github.com/yangjj-iso/Echo-Bridge),
-a Windows-first simultaneous interpretation assistant for live bilingual
-captions, transcript revision, and meeting-note export.
+我也在运营微信公众号 **程序员牛奶**，记录编程学习、项目实践、技术思考和成长过程。
 
-## Focus
+## About Me
 
-| Area | What I care about |
-| --- | --- |
-| AI products | Turning model capability into useful end-user workflows |
-| Realtime audio | Capture, streaming, captions, translation, and low-latency UX |
-| Desktop apps | Electron, Windows integration, local services, packaging |
-| Engineering tools | Clean automation, smoke tests, CI-friendly local demos |
+- Software Engineering student at Southwest University
+- Interested in full-stack development, AI applications, and developer tools
+- Writing and sharing through WeChat public account: **程序员牛奶**
+- Learning by building projects, reading code, and turning notes into reusable knowledge
 
 ## Tech Stack
 
-| Frontend | Backend | AI / Realtime | Tooling |
-| --- | --- | --- | --- |
-| TypeScript | Java | OpenAI Realtime | Node.js |
-| React | Spring Boot | WebSocket | Vite |
-| Electron | REST APIs | Speech translation | Docker |
+| Direction | Tools / Topics |
+| --- | --- |
+| Programming | Java, TypeScript, JavaScript, Python |
+| Frontend | React, Vue, Vite, HTML, CSS |
+| Backend | Spring Boot, Node.js, REST APIs |
+| AI / Tools | OpenAI API, automation, productivity tools |
+| Engineering | Git, Docker, testing, documentation |
 
-## Featured Project
+## What I Write About
 
-### EchoBridge AI
-
-Windows-first desktop simultaneous interpretation assistant.
-
-- Captures selected computer output audio
-- Streams live bilingual captions
-- Revises earlier captions when better context arrives
-- Saves session history and exports Markdown/SRT notes
-- Packages a local Java API runtime with the Electron desktop app
-
-Repository: [yangjj-iso/Echo-Bridge](https://github.com/yangjj-iso/Echo-Bridge)
-
-## What I'm Exploring
-
-- Realtime speech translation product design
-- Local-first desktop AI workflows
-- Reliable packaging and smoke testing for Windows apps
-- Practical AI tooling that can be tested without fragile demos
+- 编程学习路线和踩坑记录
+- 项目开发过程中的设计与复盘
+- AI 工具、效率工具和自动化实践
+- 软件工程学生的学习、实习和成长经验
 
 ## Links
 
 - GitHub: [github.com/yangjj-iso](https://github.com/yangjj-iso)
-- Featured repo: [EchoBridge AI](https://github.com/yangjj-iso/Echo-Bridge)
+- WeChat Official Account: **程序员牛奶**
