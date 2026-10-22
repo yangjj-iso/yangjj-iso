@@ -19,4 +19,4 @@
 
 
 
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/yangjj-iso?lang=zh)](https://ghfind.com/u/yangjj-iso?ref=badge)
+[![GitHub Roast](https://ghfind.com/api/card/yangjj-iso?theme=dark)](https://ghfind.com/u/yangjj-iso?ref=badge)
