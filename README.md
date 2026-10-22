@@ -1,12 +1,17 @@
-# Hi 👋, I'm yangjj-iso
+# `yangjj-iso` ⚡
 
-**Software Engineering Student @ SWU | Open Source Contributor**
+**Backend Engineering · Distributed Systems · AI Infrastructure**
 
-<p align="center"><img src="https://skillicons.dev/icons?i=java,python,spring,go,docker,redis,mysql" /></p>
+[![Apache ShenYu](https://img.shields.io/badge/Apache-ShenYu-D22128?style=flat-square&logo=apache)](https://github.com/apache/shenyu)
+[![Seata-Go](https://img.shields.io/badge/Apache-Seata--Go-D22128?style=flat-square&logo=apache)](https://github.com/apache/incubator-seata-go)
+[![AI Agents](https://img.shields.io/badge/AI-Agent%20Engineering-7C3AED?style=flat-square)](https://github.com/agentic-ai-java/argi)
 
-- 🌟 Contributing to [Apache ShenYu](https://github.com/apache/shenyu), [Seata-Go](https://github.com/apache/incubator-seata-go) & [RocketMQ Dashboard](https://github.com/apache/rocketmq-dashboard)
-- 🤖 Also contributing to [TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) & [ARGI](https://github.com/agentic-ai-java/argi)
-- 🛠️ Interests: Backend Engineering · Middleware · Distributed Systems · AI Agents
-- 📫 Contact: **yangjj1235@163.com** · WeChat Official Account: 程序员牛奶
+> Building reliable systems. Contributing to open source. Exploring what's next.
 
-<p align="center"><img height="150" src="https://github-readme-stats.vercel.app/api?username=yangjj-iso&show_icons=true&theme=transparent&hide_border=true" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjj-iso&layout=compact&theme=transparent&hide_border=true" /></p>
+**Open Source** · [Apache ShenYu](https://github.com/apache/shenyu) · [Seata-Go](https://github.com/apache/incubator-seata-go) · [RocketMQ Dashboard](https://github.com/apache/rocketmq-dashboard) · [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [ARGI](https://github.com/agentic-ai-java/argi)
+
+**Stack** · Java / Python / Go · Spring Boot · Redis · MySQL · Docker
+
+[Email](mailto:yangjj1235@163.com) · [GitHub](https://github.com/yangjj-iso)
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yangjj-iso&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent" height="155" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjj-iso&layout=compact&hide_border=true&bg_color=00000000&theme=transparent" height="155" /></p>
