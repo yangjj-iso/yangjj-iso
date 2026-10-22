@@ -1,17 +1,21 @@
-# `yangjj-iso` ⚡
+<div align="center">
 
-**Backend Engineering · Distributed Systems · AI Infrastructure**
+# `yangjj-iso`
 
-[![Apache ShenYu](https://img.shields.io/badge/Apache-ShenYu-D22128?style=flat-square&logo=apache)](https://github.com/apache/shenyu)
-[![Seata-Go](https://img.shields.io/badge/Apache-Seata--Go-D22128?style=flat-square&logo=apache)](https://github.com/apache/incubator-seata-go)
-[![AI Agents](https://img.shields.io/badge/AI-Agent%20Engineering-7C3AED?style=flat-square)](https://github.com/agentic-ai-java/argi)
+**Backend ⚡ Distributed Systems ⚡ AI Agents**
 
-> Building reliable systems. Contributing to open source. Exploring what's next.
+[![ShenYu](https://img.shields.io/badge/Apache_ShenYu-Open_Source-D22128?style=for-the-badge&logo=apache)](https://github.com/apache/shenyu)
+[![Seata-Go](https://img.shields.io/badge/Seata--Go-Contributor-D22128?style=for-the-badge&logo=apache)](https://github.com/apache/incubator-seata-go)
+[![RocketMQ](https://img.shields.io/badge/RocketMQ-Dashboard-D22128?style=for-the-badge&logo=apache)](https://github.com/apache/rocketmq-dashboard)
 
-**Open Source** · [Apache ShenYu](https://github.com/apache/shenyu) · [Seata-Go](https://github.com/apache/incubator-seata-go) · [RocketMQ Dashboard](https://github.com/apache/rocketmq-dashboard) · [TencentDB Agent Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [ARGI](https://github.com/agentic-ai-java/argi)
+[![TencentDB Agent Memory](https://img.shields.io/badge/TencentDB-Agent_Memory-0052D9?style=for-the-badge&logo=tencentqq)](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+[![ARGI](https://img.shields.io/badge/ARGI-AI_Agents-7C3AED?style=for-the-badge&logo=github)](https://github.com/agentic-ai-java/argi)
 
-**Stack** · Java / Python / Go · Spring Boot · Redis · MySQL · Docker
+<img src="https://skillicons.dev/icons?i=java,python,go,spring,docker,redis,mysql,kafka&theme=dark" />
 
-[Email](mailto:yangjj1235@163.com) · [GitHub](https://github.com/yangjj-iso)
+[![GitHub](https://img.shields.io/badge/GitHub-yangjj--iso-181717?style=flat-square&logo=github)](https://github.com/yangjj-iso)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yangjj1235@163.com)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yangjj-iso&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent" height="155" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjj-iso&layout=compact&hide_border=true&bg_color=00000000&theme=transparent" height="155" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=yangjj-iso&show_icons=true&hide_border=true&theme=transparent" height="160" />
+
+</div>
